@@ -1,3 +1,3 @@
-Assignment 2: Markov Decission Process
-Assignment 3: Temporal-Difference Learning TD(0), Q-Learning
-Assignment 4: TD Actor-Critic
+Assignment 2: Markov Decission Process</br>
+Assignment 3: Temporal-Difference Learning TD(0), Q-Learning</br>
+Assignment 4: TD Actor-Critic</br>
